@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**shamsharoon/shamsharoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shams Haroon, a software engineer with a passion for open source. I love building tools and applications that make people's lives easier. Currently, I'm exploring web development, machine learning, and data science.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Todo List 📋](link): HtML, CSS, JavaScript, Alpine JS
+
+## Contact
+
+- Email: shamsharoon7@gmail.com
+- LinkedIn: [shams-haroon](https://www.linkedin.com/in/shams-haroon/)
+- GitHub: [shamsharoon](https://github.com/shamsharoon)
+
