@@ -4,7 +4,8 @@ I'm Shams Haroon, a software engineer with a passion for open source. I love bui
 
 ## Projects
 
-- [Todo List 📋](https://shamsharoon.github.io/get-it-done/): HtML, CSS, JavaScript, Alpine JS
+- [Todo List 📋](https://shamsharoon.github.io/get-it-done/): HTML, CSS, JavaScript, Alpine JS
+- [TrashTech Landing Page ♻️](https://shamsharoon.github.io/TrashTechFigmaDesign): HTML, CSS, JavaScript, TailWind CSS
 
 ## Contact
 
