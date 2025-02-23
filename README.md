@@ -30,7 +30,6 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shamsharoon&theme=tokyonight)
-![Contribution Snake](https://github.com/shamsharoon/shamsharoon/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
