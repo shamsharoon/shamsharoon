@@ -1,4 +1,4 @@
-# hi, I'm Shams!
+# Hi, I'm Shams!
 
 ## 🚀 Software Engineer | Full-Stack Developer
 **Ontario Tech University | Shopify SWE Intern (Summer 2025)**  
