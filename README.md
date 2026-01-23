@@ -6,6 +6,6 @@
 ### Experience?
 - 8 Month SWE @ Shopify (Billing)
 - 4 Month SWE @ Wealthsimple (Digital Branch)
-- 4 Month SWE @ TypeOS (YC X25)
+- Founding Engineer @ TypeOS (YC X25)
 
 more to come....
