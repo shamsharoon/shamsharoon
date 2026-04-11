@@ -1,11 +1,6 @@
-# 👋 Hi, I'm Shams!
+###### where i worked
 
-### Who am I?
-- 🎓 I’m a Computer Science student at Ontario Tech University, currently on a gap year between my 2nd and 3rd year.
-
-### Experience?
-- 8 Month SWE @ Shopify (Billing)
-- 4 Month SWE @ Wealthsimple (Digital Branch)
-- Founding Engineer @ TypeOS (YC X25)
-
-more to come....
+<small>swe @ [shopify](https://shopify.com) · billing</small>  
+<small>swe @ [wealthsimple](https://wealthsimple.com) · money movements</small>  
+<small>mts @ [boardy](https://boardy.ai) · agents</small>  
+<small>mts @ [composio](https://composio.dev) · agent infra</small>
