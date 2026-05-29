@@ -1,4 +1,4 @@
-###### where i worked (desc)
+###### where i work/ed (desc)
 
 <img src="https://www.google.com/s2/favicons?domain=composio.dev&sz=16" width="16"/> mts @ [composio](https://composio.dev) · agents infra   
 <img src="https://www.google.com/s2/favicons?domain=boardy.ai&sz=16" width="16"/> mts @ [boardy](https://boardy.ai) · agents  
